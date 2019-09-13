@@ -1,0 +1,40 @@
+{
+    "data": {
+        "pgif": "/image?type=pgif",
+        "neko": "/image?type=neko",
+        "kemonomimi": "/image?type=kemonomimi",
+        "thigh": "/image?type=thigh",
+        "hthigh": "/image?type=hthigh",
+        "gah": "/image?type=gah",
+        "coffee": "/image?type=coffee",
+        "food": "/image?type=food"
+    },
+    "imagegen": {
+        "threats":"/imagegen?type=threats",
+        "baguette":"/imagegen?type=baguette",
+        "clyde":"/imagegen?type=clyde",
+        "captcha":"/imagegen?type=captcha",
+        "whowouldwin":"/imagegen?type=whowouldwin",
+        "changemymind":"/imagegen?type=changemymind",
+        "ddlc":"/imagegen?type=ddlc",
+        "jpeg":"/imagegen?type=jpeg",
+        "lolice":"/imagegen?type=lolice",
+        "kannagen":"/imagegen?type=kannagen",
+        "iphonex":"/imagegen?type=iphonex",
+        "animeface":"/imagegen?type=animeface",
+        "awooify":"/imagegen?type=awooify",
+        "trap":"/imagegen?type=trap",
+        "trumptweet":"/imagegen?type=trumptweet",
+        "tweet":"/imagegen?type=tweet",
+        "kidnap":"/imagegen?type=kidnap",
+        "deepfry":"/imagegen?type=deepfry",
+        "blurpify":"/imagegen?type=blurpify",
+        "phcomment":"/imagegen?type=phcomment",
+        "magik":"/imagegen?type=magik",
+        "osu":"/imagegen?type=osu",
+        "fact":"/imagegen?type=fact",
+        "trash":"/imagegen?type=trash",
+        "ship":"/imagegen?type=ship"
+
+    }
+}
